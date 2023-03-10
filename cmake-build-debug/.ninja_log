@@ -1,0 +1,15 @@
+# ninja log v5
+1	432	7001623941100762	CMakeFiles/Hotel_Management___C.dir/main.cpp.obj	98c4f206a0de8018
+434	557	7001623942303985	Hotel_Management___C.exe	84598936016a681c
+29	1371	7001629024802652	CMakeFiles/Hotel_Management___C.dir/Domain/Date.cpp.obj	e8b35461362dd30b
+6	1379	7001629025115127	CMakeFiles/Hotel_Management___C.dir/Domain/Hotel.cpp.obj	2844baa391f0912d
+63	1394	7001629024958905	CMakeFiles/Hotel_Management___C.dir/Repository/Repository.cpp.obj	4f795509c576c0fa
+13	1464	7001629026056938	CMakeFiles/Hotel_Management___C.dir/Domain/HotelValidator.cpp.obj	92073c2e9329dca8
+21	1599	7001629027315222	CMakeFiles/Hotel_Management___C.dir/Domain/DateValidator.cpp.obj	d595c363cdc2b2a5
+37	3095	7001629042373479	CMakeFiles/Hotel_Management___C.dir/Repository/RepoFile.cpp.obj	f0cc06b7cbb134d5
+44	3119	7001629042686078	CMakeFiles/Hotel_Management___C.dir/Service/Service.cpp.obj	ba3f4e47891cbc7e
+69	3124	7001629042686078	CMakeFiles/Hotel_Management___C.dir/UserInterface/UserInterface.cpp.obj	328020025a2d3546
+55	3182	7001629043315041	CMakeFiles/Hotel_Management___C.dir/Tests/Tests.cpp.obj	431457b57081cdc
+3183	3410	7001629045511106	Hotel_Management___C.exe	2cfa5eec13b69281
+6	1534	7001629113602632	CMakeFiles/Hotel_Management___C.dir/main.cpp.obj	98c4f206a0de8018
+1535	1707	7001629115325555	Hotel_Management___C.exe	2cfa5eec13b69281
